@@ -1,0 +1,144 @@
+Date,ShareLink,ShareCommentary,SharedURL,MediaURL,Visibility
+2022-09-08 04:10:18,https://www.linkedin.com/feed/update/urn%3Ali%3Ashare%3A6973492690202112000,"It's always super interesting to carry out explanatory data analysis on issues that matter to me the most, especially in regards to home demolishments in Palestine.""
+""""
+""In my recent project, I performed EDA on a dataset on Forced Home Demolitions in Palestine from the years 2004-2021.""
+""""
+""I also used Logistic Regression, a supervised learning classification model (for categorical variables) that works best on small datasets. I trained the model to predict the area of demolishments.""
+""""
+""Link to project on my github: ""
+""""
+""https://lnkd.in/guS9z9Rh ""
+""""
+""#dataanalysis #eda #datascience #classification #logisticregression",,,MEMBER_NETWORK
+2022-08-26 20:41:31,https://www.linkedin.com/feed/update/urn%3Ali%3Ashare%3A6969031096520892416,"Support Vector Classification is used in Classification. It is used to fit the data you provide, returning a ""best fit"" hyperplane that divides, or categorizes, your data. ""
+""""
+""Catboost Classifier is an algorithm that works using decision trees. A decision tree is a flowchart-type object where feature values are used to identify which tree branch to pick until finally, a prediction is made.""
+""""
+""Random Forest Classifier is an algorithm that uses an ensemble of the decision trees trained on different random subsets of the data. ""
+""""
+""I used all three algorithms on a Cardio Fitness dataset where I try to predict what threadmill model a customer buys based on their information. Check it out on my Github! https://lnkd.in/gaCsKPnQ""
+""""
+""#datascience  #github #algorithms #machinelearning #catboost #randomforest #supervisedlearning",https://github.com/Sajiah/catboost-threadmill-classification,,MEMBER_NETWORK
+2022-08-23 19:20:24,https://www.linkedin.com/feed/update/urn%3Ali%3Ashare%3A6967923517447163904,"Before starting my Haskell Programming class last semester, I was anticipating the worst because of the stories I was told and how many people found Haskell programming to be well, a hassle! After finishing the class, I found it to be my favorite subject of the semester with challenging and interesting projects each week! Glad to be working with Professor Lee as a Teaching Assistant/Grader for the subject this semester!!""
+""""
+""#haskell #programming",,,MEMBER_NETWORK
+2022-08-09 16:01:31,https://www.linkedin.com/feed/update/urn%3Ali%3Ashare%3A6962800036309065728,"Two main things I learnt as a machine learning researcher: ""
+""""
+""- THE PANDAS AND SCIKIT-LEARN LIBRARIES ARE EVERYTHING YOU NEED.""
+""""
+""- Don't give up on your dataset, sometimes its as simple as turning a regression problem into a classification problem.""
+""""
+""#machinelearning #datascience #computerscience #pandas #scikitlearn",,,MEMBER_NETWORK
+2022-07-29 15:09:49,https://www.linkedin.com/feed/update/urn%3Ali%3Ashare%3A6958800758003703810,,,,MEMBER_NETWORK
+2022-07-21 20:57:41,https://www.linkedin.com/feed/update/urn%3Ali%3Ashare%3A6955989199359533056,"I have officially ended my Summer Research Intern Programme as an Excellence Scholar at Syracuse University College of Engineering and Computer Science. I would like to officially thank my amazing and supportive supervisor, Professor Sucheta Soundarajan for all the knowledge she has provided me in the world of Machine Learning and Artificial Intelligence, and it's application in Public Policy. ""
+""""
+""#machinelearning #artificialintelligence #publicpolicy",,,MEMBER_NETWORK
+2022-03-29 01:05:08,https://www.linkedin.com/feed/update/urn%3Ali%3Ashare%3A6914376867869274112,"My dearest father sent me my Valedictorian speech that I gave 5 years ago.  I hope and pray that all the girls in Afghanistan who are deprived of their education by ruthless leaders, be given the chance to one day speak at their graduation.""
+""""
+""#letafghangirlslearn ""
+""""
+""https://lnkd.in/dtQjhZ5y",https://www.youtube.com/watch?v=KSWubSgVyII&t=2s,,MEMBER_NETWORK
+2022-01-04 18:09:03,https://www.linkedin.com/feed/update/urn%3Ali%3Ashare%3A6884193963532787712,"It's been way too long since I've updated my LinkedIn but a major update is I'm currently a Grad student doing my masters in Computer Science in Syracuse University, New York!",,,MEMBER_NETWORK
+2020-08-13 13:28:54,https://www.linkedin.com/feed/update/urn%3Ali%3Ashare%3A6699668039832629249,Bureaucracy in our education system needs to be eliminated! ,,,MEMBER_NETWORK
+2020-08-08 08:40:59,https://www.linkedin.com/feed/update/urn%3Ali%3AugcPost%3A6697783642455973889,"Using python libraries such as PyAudio, speech recognition and pyglet, this is a web browser I created with speech recognition that captures audio as a google search!""
+""""
+""#datascience #ai #python #pyaudio #pyqt",,,MEMBER_NETWORK
+2020-08-08 06:39:04,https://www.linkedin.com/feed/update/urn%3Ali%3Ashare%3A6697752961742974976,"Quite literally one of the best courses out there!""
+""""
+""#python #datasciences #pyqt #pycharm #udemycourses ",,,MEMBER_NETWORK
+2020-08-05 14:44:03,https://www.linkedin.com/feed/update/urn%3Ali%3Ashare%3A6696787849997549568,"Matplotlib is a plotting library for the Python programming language and its numerical mathematics extension NumPy.""
+""It's an awesome tool for data analysts to create all sorts of graphs and charts. Here are some links to codes  I wrote in python for the different types of graphs/charts: ""
+""""
+""Line Graph: https://lnkd.in/gxpYxyi""
+""Pie Chart: https://lnkd.in/ewSmFFj""
+""Bar Chart: https://lnkd.in/eDEaH2Z""
+""""
+""#python #datascientist #dataanalyst #matplotlib ",https://lnkd.in/gxpYxyi,https://avatars0.githubusercontent.com/u/30588469?s=400&v=4,MEMBER_NETWORK
+2020-08-03 15:08:47,https://www.linkedin.com/feed/update/urn%3Ali%3Ashare%3A6696069298693263360,"PYQt is one of the most popular Python bindings for the Qt cross-platform C++ framework. You can use it to develop GUIs. One of its uses in the real world is to develop GUIs for data analytics. ""
+""Here's a link to my github on a web browser GUI I created using PYQt!""
+""""
+""#python #pyqt #datascientist #dataanalyst",https://github.com/Sajiah/web-browser,https://avatars0.githubusercontent.com/u/30588469?s=400&v=4,MEMBER_NETWORK
+2020-06-09 08:18:44,https://www.linkedin.com/feed/update/urn%3Ali%3Ashare%3A6676034774127259648,"In my webscraper I posted previously, I used Python programaming language with Pycharm IDE, using Beautiful Soap.",,,MEMBER_NETWORK
+2020-06-08 03:36:40,https://www.linkedin.com/feed/update/urn%3Ali%3Ashare%3A6675601401978204160,"If anybody is looking for a  web-scraper. Here's a python made webscraper in my github:""
+""""
+""#python #webscraping",https://github.com/Sajiah/web-scraper,https://avatars0.githubusercontent.com/u/30588469?s=400&v=4,MEMBER_NETWORK
+2020-06-08 03:31:51,https://www.linkedin.com/feed/update/urn%3Ali%3Ashare%3A6675600188259864576,This is so cool!,,,MEMBER_NETWORK
+2020-06-07 04:09:11,https://www.linkedin.com/feed/update/urn%3Ali%3Ashare%3A6675247194100109312,"WizCodeWorld is a social media platform (not fully complete) for coders! I believe it can go a long way and so, I've shared the code on my Github publicly. ""
+""""
+""I have developed it using Web.py with an MVC(Model-View-Controller) framework.""
+""""
+""Model - corresponds with all the data-related logic that   the user works with (database used is MongoDB)""
+""View - UI logic of the application (mainly bootstrap) Controller - acts as an interface between the model and the view.""
+""""
+""Github link: https://lnkd.in/gubc_Bn""
+""""
+""#python #webpy #mongodb",,,MEMBER_NETWORK
+2020-06-02 04:44:35,https://www.linkedin.com/feed/update/urn%3Ali%3Ashare%3A6673444166523068416,"Thank you Malaysiakini for allowing me to express my fuming anger on recent remarks made by former Miss Universe Malaysia (pictured below) on a nationwide platform.  This is an article I wrote on educating yourself in combating racism.""
+""“If you are silent in the face of injustice, you have chosen the side of the oppressor.” - Desmond Tutu""
+""""
+""https://lnkd.in/gx-tjwD""
+""""
+""",https://www.malaysiakini.com/letters/528317?fbclid=IwAR2N_KaJ4g0euSd0DH3dJfCGjQHhfMg1Mt8ORB1xCHa8mdCVFuResXwQ3v8,https://i.malaysiakini.com/1097/b05868a64eea262d63b93baa28a9ab45.jpeg,MEMBER_NETWORK
+2020-05-19 06:04:59,https://www.linkedin.com/feed/update/urn%3Ali%3Ashare%3A6668390967978156032,"Dealing with a deadly conflict and Covid-19.""
+""""
+""This is another article I wrote for The Star Malaysia, trying to shed some light on the plight of conflict zones during the time of the pandemic.""
+""""
+""https://lnkd.in/gmj8eSg",,,MEMBER_NETWORK
+2020-05-19 05:50:54,https://www.linkedin.com/feed/update/urn%3Ali%3Ashare%3A6668387423300526081,"I have developed a little social media platform for coders using python (web.py and mongodb). ""
+""""
+""I will be make a few twitches and putting it up on Github if anybody would like to make changes! #python #django ",,,MEMBER_NETWORK
+2020-05-12 07:54:56,https://www.linkedin.com/feed/update/urn%3Ali%3Ashare%3A6665881921136005120,,,,MEMBER_NETWORK
+2020-05-12 06:24:20,https://www.linkedin.com/feed/update/urn%3Ali%3Ashare%3A6665859123923550208,"Mental health has always been very dear to me, especially during trying times like these. Having said that, two days ago I wrote an article about staying sane and mentally healthy during this social distancing period. Without thinking much of it, I sent it over to The Star Malaysia and they published it!""
+""""
+""https://lnkd.in/gvq9UyK""
+""",https://www.thestar.com.my/opinion/letters/2020/05/12/reach-out-and-help-to-make-others-feel-better?fbclid=IwAR30m1GnU4zt6K-5_mGznRBByb71ZKg4-IopQ8zDOy6n2M6WoxC39KB4bZ8,https://cdn.thestar.com.my/Themes/img/newTsol_logo_socmedia.png,MEMBER_NETWORK
+2020-05-12 06:24:20,https://www.linkedin.com/feed/update/urn%3Ali%3Ashare%3A6665859123923550208,"Mental health has always been very dear to me, especially during trying times like these. Having said that, two days ago I wrote an article about staying sane and mentally healthy during this social distancing period. Without thinking much of it, I sent it over to The Star Malaysia and they published it!""
+""""
+""https://lnkd.in/gvq9UyK""
+""",https://www.thestar.com.my/opinion/letters/2020/05/12/reach-out-and-help-to-make-others-feel-better?fbclid=IwAR30m1GnU4zt6K-5_mGznRBByb71ZKg4-IopQ8zDOy6n2M6WoxC39KB4bZ8,https://cdn.thestar.com.my/Themes/img/tsol-default-image2017.png,MEMBER_NETWORK
+2020-04-30 09:30:04,https://www.linkedin.com/feed/update/urn%3Ali%3Ashare%3A6661557208087691264,Currently working on a website designed totally using Python and MongoDB! #python #website #django ,,,MEMBER_NETWORK
+2020-04-21 06:37:27,https://www.linkedin.com/feed/update/urn%3Ali%3Ashare%3A6658252277436035072,"Udemy is a perfect online platform to learn and improve your technical skills! I highly recommend everyone to take up on a few additional skills and subscribe to any of their courses. ""
+""Currently taking up a Python course during this #covid19 quarantine period and glad to say that I've learnt a whole lot!""
+""""
+""https://lnkd.in/gnDqF-w",https://www.udemy.com/course/python-complete/learn/lecture/5310382#overview,,MEMBER_NETWORK
+2019-12-22 08:56:07,https://www.linkedin.com/feed/update/urn%3Ali%3Ashare%3A6614438244723589120,"First programming class for children commenced today and alhamdulillah, it was a success!""
+""""
+""#code4kidz #malaysia #afghanistan",,,MEMBER_NETWORK
+2019-12-22 08:56:07,https://www.linkedin.com/feed/update/urn%3Ali%3Ashare%3A6614438244723589120,"First programming class for children commenced today and alhamdulillah, it was a success!""
+""""
+""#code4kidz #malaysia #afghanistan",,,MEMBER_NETWORK
+2019-12-22 08:56:07,https://www.linkedin.com/feed/update/urn%3Ali%3Ashare%3A6614438244723589120,"First programming class for children commenced today and alhamdulillah, it was a success!""
+""""
+""#code4kidz #malaysia #afghanistan",,,MEMBER_NETWORK
+2019-12-22 08:56:07,https://www.linkedin.com/feed/update/urn%3Ali%3Ashare%3A6614438244723589120,"First programming class for children commenced today and alhamdulillah, it was a success!""
+""""
+""#code4kidz #malaysia #afghanistan",,,MEMBER_NETWORK
+2019-12-22 08:56:07,https://www.linkedin.com/feed/update/urn%3Ali%3Ashare%3A6614438244723589120,"First programming class for children commenced today and alhamdulillah, it was a success!""
+""""
+""#code4kidz #malaysia #afghanistan",,,MEMBER_NETWORK
+2019-12-22 08:56:07,https://www.linkedin.com/feed/update/urn%3Ali%3Ashare%3A6614438244723589120,"First programming class for children commenced today and alhamdulillah, it was a success!""
+""""
+""#code4kidz #malaysia #afghanistan",,,MEMBER_NETWORK
+2019-12-22 08:56:07,https://www.linkedin.com/feed/update/urn%3Ali%3Ashare%3A6614438244723589120,"First programming class for children commenced today and alhamdulillah, it was a success!""
+""""
+""#code4kidz #malaysia #afghanistan",,,MEMBER_NETWORK
+2019-12-22 08:56:07,https://www.linkedin.com/feed/update/urn%3Ali%3Ashare%3A6614438244723589120,"First programming class for children commenced today and alhamdulillah, it was a success!""
+""""
+""#code4kidz #malaysia #afghanistan",,,MEMBER_NETWORK
+2019-12-22 08:56:07,https://www.linkedin.com/feed/update/urn%3Ali%3Ashare%3A6614438244723589120,"First programming class for children commenced today and alhamdulillah, it was a success!""
+""""
+""#code4kidz #malaysia #afghanistan",,,MEMBER_NETWORK
+2019-12-09 06:02:12,https://www.linkedin.com/feed/update/urn%3Ali%3Ashare%3A6609683433465700352,Initiative to get the kids of our community to enhance their skills! ,,,MEMBER_NETWORK
+2019-07-21 02:14:38,https://www.linkedin.com/feed/update/urn%3Ali%3Ashare%3A6558529474080665600,"Thought I'd go back a few months and share my valedictorian speech! ""
+""""
+""https://lnkd.in/fYUvp6Y""
+""""
+""#speech #computerscience #valedictorian #university #iium",https://www.youtube.com/watch?v=KSWubSgVyII&t=108s,,MEMBER_NETWORK
+2019-07-21 02:14:38,https://www.linkedin.com/feed/update/urn%3Ali%3Ashare%3A6558529474080665600,"Thought I'd go back a few months and share my valedictorian speech! ""
+""""
+""https://lnkd.in/fYUvp6Y""
+""""
+""#speech #computerscience #valedictorian #university #iium",https://www.youtube.com/watch?v=KSWubSgVyII&t=108s,,MEMBER_NETWORK
+2018-06-11 17:02:51,https://www.linkedin.com/feed/update/urn%3Ali%3Ashare%3A6411985917153763328,"Finally got my behance profile up and running with my latest designs ( web design, branding, etc ) . Check it out :""
+""""
+""https://lnkd.in/fJH6hnE",,,MEMBER_NETWORK
